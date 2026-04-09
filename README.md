@@ -26,4 +26,4 @@ Move your spaceship, blast enemies, and survive as long as you can!
 ## ▶️ How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/space-shooter.git
+   git clone https://github.com/Rakhiiii315/space-shooter.git
